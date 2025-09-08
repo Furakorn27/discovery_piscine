@@ -1,7 +1,7 @@
 # Discovery-Piscine-Web
 
 
-## Get Started
+## Get Started2
 Welcome to Discovery Piscine - Web Edition. Your mission, if you choose to accept it, will be to start learning Web in the 42 way. For each exercise, use your brain, don't look up for the solution, and find your own solution.
 
 ## Additional Resources
